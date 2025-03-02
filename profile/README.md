@@ -1,16 +1,16 @@
-# Association Protecting Exotic Species CIC
+# Association of Protecting Exotic Species CIC
 
-Welcome to the repository for the Association Protecting Exotic Species CIC (APES). We are a dedicated community interest company committed to the protection and preservation of exotic species and their habitats around the world. Our mission is to engage, educate, and empower communities and individuals to contribute towards sustainable conservation efforts.
+Welcome to the repository for the Association of Protecting Exotic Species CIC (APES). We are a dedicated community interest company committed to the protection and preservation of exotic species and their habitats around the world. Our mission is to engage, educate, and empower communities and individuals to contribute towards sustainable conservation efforts.
 
 ## Who We Are
 
-The Association Protecting Exotic Species CIC is a non-profit organization fueled by passion and determination to safeguard exotic wildlife. Our team of experts, volunteers, and wildlife enthusiasts work together to implement projects that address critical conservation needs. To achieve our vision, we collaborate with local communities, governments, and international partners.
+The Association of Protecting Exotic Species CIC is a non-profit organization fueled by passion and determination to safeguard exotic wildlife. Our team of experts, volunteers, and wildlife enthusiasts work together to implement projects that address critical conservation needs. To achieve our vision, we collaborate with local communities, governments, and international partners.
 
 ## What We Do
 
 We undertake a variety of initiatives focused on the conservation of exotic species. Our activities include:
 
-- **Conservation Projects**: We design and implement programs to protect endangered wildlife and restore natural habitats.
+- **Conservation Projects**: We design and implement programs to protect endangered wildlife and restore natural habitats. Rescueing and adoptions of domesticated exotic animals. 
 - **Educational Outreach**: We conduct workshops and awareness campaigns to educate the public on conservation issues and the importance of biodiversity.
 - **Research and Advocacy**: We support scientific research that informs conservation strategies and advocate for policies that protect wildlife.
 
